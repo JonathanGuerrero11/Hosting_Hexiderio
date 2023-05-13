@@ -1,0 +1,7 @@
+PA = Productos de Anillos
+PAR = Productos de Aretes
+PC = Productos de Cadenas
+PCI = Productos de Cintillos
+PDI = Productos de Dijes
+PANC = Productos de Anillos de Compromiso
+PARM = Productos de Argollas de Matrimonio
